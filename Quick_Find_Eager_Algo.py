@@ -1,3 +1,5 @@
+####inspired by princeton university
+
 class Quick_Find_Eager:
     def __init__(self,n):
         self.id = [i for i in range(0,n)]
